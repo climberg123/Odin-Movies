@@ -10,3 +10,14 @@ nav ol {
 nav ol li {
     margin-bottom: 10px;
 }
+
+.movie-page {
+    display: inline-block;
+    text-align: center;
+    width: 250px;
+}
+
+img { 
+    width: 70%;
+    height: auto;
+}
