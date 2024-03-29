@@ -1,0 +1,12 @@
+nav {
+    text-align: center;
+}
+
+nav ol {
+    list-style-position: inside;
+    padding-left: 0;
+}
+
+nav ol li {
+    margin-bottom: 10px;
+}
