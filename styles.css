@@ -1,13 +1,13 @@
-nav {
+.home-page {
     text-align: center;
 }
 
-nav ol {
+main ol {
     list-style-position: inside;
     padding-left: 0;
 }
 
-nav ol li {
+main ol li {
     margin-bottom: 10px;
 }
 
